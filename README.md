@@ -1,6 +1,9 @@
 ## Hi there 👋   
 I'm Lingyi. Welcome!   
 
+## Update
+![Snake animation](https://raw.githubusercontent.com/{irwenjust}/{irwenjust}/output/github-contribution-grid-snake-dark.svg)  
+
 <!--
 **irwenjust/irwenjust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
