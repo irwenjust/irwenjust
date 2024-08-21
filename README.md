@@ -2,11 +2,11 @@
 I'm Lingyi. Welcome!   
 
 ## Update
-![Snake animation](https://raw.githubusercontent.com/{irwenjust}/{irwenjust}/output/github-contribution-grid-snake-dark.svg)  
+![Snake animation](https://github.com/irwenjust/irwenjust/blob/output/github-contribution-grid-snake.svg)  
 
 <!--
 **irwenjust/irwenjust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/irwenjust/irwenjust/blob/output/github-contribution-grid-snake.svg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
