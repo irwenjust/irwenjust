@@ -5,8 +5,8 @@ I'm Lingyi. Welcome!
 ![Snake animation](https://github.com/irwenjust/irwenjust/blob/output/github-contribution-grid-snake.svg)  
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwenjust&langs_count=8&layout=compact&hide_border=true&theme=rose" alt="Most used languages"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=irwenjust&include_all_commits=true&show_icons=true&hide_border=true&line_height=20&theme=moltack" alt="Irwen's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwenjust&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=irwenjust&include_all_commits=true&&show=prs_merged&show_icons=true&hide_border=true&line_height=20&theme=github_dark" alt="Irwen's github stats" />
 </div>
 
 <!--
