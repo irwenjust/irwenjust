@@ -10,10 +10,10 @@ I'm Lingyi. Welcome!
 
 
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwenjust&langs_count=8&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
     <img src="https://github-readme-stats.vercel.app/api?username=irwenjust&include_all_commits=true&&show=prs_merged&show_icons=true&hide_border=true&line_height=20&theme=github_dark" alt="Irwen's github stats" />
-</div>
+</div> -->
 
 <!--
 **irwenjust/irwenjust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
